@@ -1,5 +1,6 @@
 # sandupasandamina.github.io
 
 <head>
-<title>Sandupa Sandamina</title>
+
 </head>
+<body><h1>Sandupa Sandamina</h1></body>
